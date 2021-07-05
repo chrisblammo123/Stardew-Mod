@@ -5,7 +5,7 @@ using StardewModdingAPI.Events;
 using StardewModdingAPI.Utilities;
 using StardewValley;
 
-namespace StardewMod
+namespace StardewModTest
 {
 	// The mod entry point.
 

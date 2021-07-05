@@ -1,10 +1,10 @@
 ﻿{
-	"Name": "StardewMod",
+	"Name": "StardewModTest",
 	"Author": "Chris Struck",
-	"Version": "1.0.0",
-	"Description": "<One or two sentences about the mod>",
-	"UniqueID": "<your name>.<your project name>",
-	"EntryDll": "<your project name>.dll",
+	"Version": "0.0.1",
+	"Description": "Learning stardew valley modding",
+	"UniqueID": "ChrisStruck.StardewModTest",
+	"EntryDll": "StardewModTest.dll",
 	"MinimumApiVersion": "3.0.0",
 	"UpdateKeys": []
 }
